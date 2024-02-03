@@ -21,13 +21,3 @@ try {
 } catch (error) {
   console.error(error);
 }
-
-// TODO: Implementar no react.js para criar uma imagem com pontos
-// TODO: Usar pontos vermelhos(div) para ficar visivel
-// TODO: Centralizar no body a div principal
-
-//* Renamed the function to fibonacciSequence to better reflect what it does.
-//* Added an error check at the beginning of the function to ensure that n is a positive integer.
-//* Changed the implementation of the function to use a while loop instead of a for loop to generate the sequence more efficiently.
-//* Changed the implementation of the function to use two variables, current and next, to keep track of the current number in the sequence and the next number in the sequence, respectively. This avoids the need for an array to keep track of the sequence.
-//* Used Number.isInteger() to ensure that n is an integer.
